@@ -33,6 +33,7 @@
     sensitive_content_protection_service
     setupwizard_mode_prop
     supervision_service
+    sysfs_disk_stat
     sysfs_sync_on_suspend
     tv_ad_service
     threadnetwork_service
